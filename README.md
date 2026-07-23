@@ -9,38 +9,27 @@
   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-<sub>**`dharmanshu kumar`** · **@innocous06** · systems engineer · cse @ srmist</sub>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=C9654A&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=%3E+innocous+%7C+database+architecture+%26+networking;%3E+encrypted+vpn+protocols+%7C+cloud+automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=C9654A&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=50&lines=%3E+database+systems+%7C+networking+%7C+cloud+automation;%3E+encrypted+vpn+protocols+%7C+systems+engineering" alt="Typing SVG" />
 
 </div>
 
-<br>
+---
 
 ```bash
 ~ whoami
   innocous06
 
-~ cat about.txt
-  Dharmanshu Kumar. CSE undergraduate at SRMIST.
-  I specialize in database architecture, custom networking protocols,
-  and cloud automation pipelines.
-
 ~ cat focus.txt
-  → Database architecture & real-time sync engines
+  → Database architecture, schema design & query optimization
   → Zero-dependency TCP/UDP VPN tunnelling protocols
-  → Cloud data pipelines (OCI, Azure)
-  → High-throughput LAN streaming tools
-
-~ cat status
-  looking for internships & collaborations
+  → Cloud data pipelines & subprocess automation (OCI, Azure)
+  → High-throughput LAN streaming & peer-to-peer transfer
+  → Real-time sync engines & transactional data integrity
 ```
 
 ---
 
-### `// tech stack`
+### `// stack`
 
 <table>
 <tr>
@@ -54,6 +43,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 </tr>
@@ -64,6 +54,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![ACID](https://img.shields.io/badge/ACID_Transactions-2C2C2C?style=flat-square&logoColor=white)
+![Indexing](https://img.shields.io/badge/Query_Optimization-1a1a1a?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -71,15 +63,16 @@
 <td><b>Networking</b></td>
 <td>
 
-![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP-2C2C2C?style=flat-square&logoColor=white)
+![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP_Sockets-2C2C2C?style=flat-square&logoColor=white)
 ![mTLS](https://img.shields.io/badge/mTLS-C9654A?style=flat-square&logoColor=white)
-![VPN Protocols](https://img.shields.io/badge/VPN_Protocols-333333?style=flat-square&logoColor=white)
-![DPI Evasion](https://img.shields.io/badge/DPI_Evasion-1a1a1a?style=flat-square&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN_Protocol_Design-333333?style=flat-square&logoColor=white)
+![DPI](https://img.shields.io/badge/DPI_Evasion-1a1a1a?style=flat-square&logoColor=white)
+![gomobile](https://img.shields.io/badge/gomobile-00ADD8?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td><b>Full-Stack</b></td>
+<td><b>Web</b></td>
 <td>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -95,7 +88,8 @@
 <td>
 
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_API-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
@@ -104,40 +98,72 @@
 
 ---
 
-### `// selected projects`
+### `// projects`
 
 <table>
 <tr>
 <td width="50%">
 
-**[`tunnel-prot-1`](https://github.com/innocous06/tunnel-prot-1)** &nbsp; `Go` `VPN` `mTLS`
-<br><sub>Zero-dependency encrypted TCP/UDP VPN tunnelling protocol with mTLS auth and compiled native Android binaries. 20–50ms latencies on OCI nodes.</sub>
+**[`tunnel-prot-1`](https://github.com/innocous06/tunnel-prot-1)** &nbsp; `Go`
+
+Zero-dependency encrypted TCP/UDP VPN tunnelling protocol. mTLS cert validation, custom JSON config spec, and native Android binaries via gomobile. **20–50ms latency** on domestic OCI nodes, ~230ms transatlantic.
+
+`Go` `Custom VPN` `mTLS` `OCI VPS` `gomobile`
 
 </td>
 <td width="50%">
 
-**[`HyperShare`](https://github.com/innocous06/HyperShare)** &nbsp; `Node.js` `Express` `Wi-Fi 6`
-<br><sub>High-speed local file transfer for peer-to-peer Wi-Fi 6 streaming. Bypasses TLS overhead to hit sustained 2–87 MB/s throughput.</sub>
+**[`HyperShare`](https://github.com/innocous06/HyperShare)** &nbsp; `Node.js`
+
+High-speed peer-to-peer file transfer over Wi-Fi 6 (5GHz). Bypasses cloud relays, TLS overhead, and multipart parsing. **Sustained 87 MB/s** throughput. Bundled as standalone Windows executable via pkg.
+
+`Node.js` `Express` `Wi-Fi 6` `LAN Streaming` `pkg`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[`shadowlink`](https://github.com/innocous06/shadowlink)** &nbsp; `Rust` `TLS` `Cargo`
-<br><sub>Memory-safe, low-overhead networking utility for point-to-point VPN tunnelling with modular Cargo workspace and auto cert generation.</sub>
+**[`shadowlink`](https://github.com/innocous06/shadowlink)** &nbsp; `Rust`
+
+Memory-safe, low-overhead VPN tunnelling utility. Modular Cargo workspace with automated certificate generator (certgen) and native Android client integration (shadowlink-android).
+
+`Rust` `TLS` `Cargo Workspace` `Certgen` `VPN`
 
 </td>
 <td width="50%">
 
-**[`timetrav-ai`](https://github.com/innocous06/timetrav-ai)** &nbsp; `AI` `Web`
-<br><sub>AI-powered time travel experience — exploring history through intelligent conversational interfaces.</sub>
+**Cloud Pipeline Engine** &nbsp; `Python`
+
+Automated cloud data extraction & ingestion suite using subprocess-driven Aria2 instances. Integrates Microsoft 365 E5 / Azure APIs and Google Drive APIs with dynamic rsync workflows and Cloudflare challenge handling.
+
+`Python` `Azure API` `Google Drive API` `Aria2` `Subprocess`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Property & Studio Ops Platform** &nbsp; `React`
+
+Full-stack multi-role platform with Firestore real-time document sync, complex relational data modeling, strict RBAC via security rules, multi-tenant billing ledgers, and query-optimized financial reporting.
+
+`React.js` `Firestore` `NoSQL Schema` `RBAC` `Real-Time Sync`
+
+</td>
+<td width="50%">
+
+**[`timetrav-ai`](https://github.com/innocous06/timetrav-ai)** &nbsp; `AI`
+
+AI-powered time travel experience — exploring history through intelligent conversational interfaces.
+
+`AI` `Web`
 
 </td>
 </tr>
 </table>
 
-> *More at [github.com/innocous06?tab=repositories](https://github.com/innocous06?tab=repositories)*
+> *[all repos →](https://github.com/innocous06?tab=repositories)*
 
 ---
 
@@ -165,19 +191,15 @@
 
 ---
 
-### `// connect`
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/innocous06.dev-c9654a?style=for-the-badge&logoColor=white)](https://portfolio.600266.xyz)
+[![Portfolio](https://img.shields.io/badge/600266.xyz-c9654a?style=for-the-badge&logoColor=white)](https://600266.xyz)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/innocous06)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmanshu-kumar)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=maildotru&logoColor=c9654a)](mailto:dharmanshu@duck.com)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=maildotru&logoColor=c9654a)](mailto:innocous@duck.com)
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=innocous06&style=flat-square&color=c9654a&label=profile+views" />
 
