@@ -167,30 +167,6 @@ AI-powered time travel experience — exploring history through intelligent conv
 
 ---
 
-### `// stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=innocous06&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=c9654a&icon_color=c9654a&text_color=b0b0bc&ring_color=c9654a&include_all_commits=true&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocous06&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=c9654a&text_color=b0b0bc&langs_count=8" height="170" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=innocous06&hide_border=true&background=0a0a0a&stroke=1a1a1a&ring=c9654a&fire=c9654a&currStreakLabel=c9654a&sideLabels=b0b0bc&currStreakNum=f2f2f5&sideNums=f2f2f5&dates=717180" width="520" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=innocous06&bg_color=0a0a0a&color=b0b0bc&line=c9654a&point=da8268&area=true&area_color=c9654a&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-</div>
-
----
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/600266.xyz-c9654a?style=for-the-badge&logoColor=white)](https://600266.xyz)
