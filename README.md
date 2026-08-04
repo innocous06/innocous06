@@ -15,9 +15,11 @@
   • Cloud Pipelines & Subprocess Automation
 ```
 
+<div align="right"><font color="#c9654a" face="monospace">───[ node: oci-active ]───●</font></div>
+
 ---
 
-### `// technical stack`
+### <font color="#c9654a">├──</font> `// technical stack` <font color="#c9654a">───►</font>
 
 <table>
 <tr>
@@ -74,9 +76,11 @@
 </tr>
 </table>
 
+<div align="right"><font color="#c9654a" face="monospace">───[ bus: sys_stack ]───●</font></div>
+
 ---
 
-### `// featured engineering`
+### <font color="#c9654a">├──</font> `// featured engineering` <font color="#c9654a">───►</font>
 
 <table>
 <tr>
@@ -84,16 +88,16 @@
 
 #### [`tunnel-prot-1`](https://github.com/innocous06/tunnel-prot-1) &nbsp; `Go`
 Zero-dependency encrypted TCP/UDP VPN tunnelling protocol with mutual TLS (mTLS) certificate validation, custom JSON configuration specifications, and compiled native Android binary modules via `gomobile`.
-* **Latency:** **20–50ms** on domestic OCI nodes, ~230ms transatlantic.
-* **Stack:** `Go` · `Custom VPN` · `mTLS` · `OCI VPS` · `gomobile`
+* ↳ <font color="#c9654a">**latency:**</font> **20–50ms** on domestic OCI nodes, ~230ms transatlantic.
+* ↳ <font color="#c9654a">**stack:**</font> `Go` · `Custom VPN` · `mTLS` · `OCI VPS` · `gomobile`
 
 </td>
 <td width="50%" valign="top">
 
 #### [`HyperShare`](https://github.com/innocous06/HyperShare) &nbsp; `Node.js`
 High-speed peer-to-peer file transfer engine engineered for direct Wi-Fi 6 (5GHz) streaming. Actively bypasses cloud relay round-trips, TLS overheads, and multipart form parsing.
-* **Throughput:** Sustained **87 MB/s** direct LAN transmission speed.
-* **Stack:** `Node.js` · `Express` · `Wi-Fi 6` · `pkg Executable`
+* ↳ <font color="#c9654a">**throughput:**</font> Sustained **87 MB/s** direct LAN transmission speed.
+* ↳ <font color="#c9654a">**stack:**</font> `Node.js` · `Express` · `Wi-Fi 6` · `pkg Executable`
 
 </td>
 </tr>
@@ -102,14 +106,14 @@ High-speed peer-to-peer file transfer engine engineered for direct Wi-Fi 6 (5GHz
 
 #### [`shadowlink`](https://github.com/innocous06/shadowlink) &nbsp; `Rust`
 Memory-safe, low-overhead networking utility for point-to-point secure VPN tunnelling. Organized as a modular Cargo workspace containing an automated certificate generator (`certgen`) and native Android client integration.
-* **Stack:** `Rust` · `TLS Tunnelling` · `Cargo Workspace` · `Certgen` · `VPN`
+* ↳ <font color="#c9654a">**stack:**</font> `Rust` · `TLS Tunnelling` · `Cargo Workspace` · `Certgen` · `VPN`
 
 </td>
 <td width="50%" valign="top">
 
 #### Cloud Pipeline Engine &nbsp; `Python`
 High-throughput automated data ingestion and extraction suite using subprocess-driven Aria2 engines. Integrates Microsoft 365 E5 / Azure and Google Drive APIs with dynamic `rsync` workflows and Cloudflare challenge handling.
-* **Stack:** `Python` · `Azure APIs` · `Google Drive API` · `Aria2` · `Subprocess`
+* ↳ <font color="#c9654a">**stack:**</font> `Python` · `Azure APIs` · `Google Drive API` · `Aria2` · `Subprocess`
 
 </td>
 </tr>
@@ -118,14 +122,14 @@ High-throughput automated data ingestion and extraction suite using subprocess-d
 
 #### Property Operations Platform &nbsp; `React`
 Full-stack multi-role web platform with Firebase Firestore for real-time document database synchronization. Features role-based access control (RBAC), multi-tenant ledgers, and query-optimized reporting.
-* **Stack:** `React.js` · `Firestore NoSQL` · `RBAC Security` · `Real-Time Sync`
+* ↳ <font color="#c9654a">**stack:**</font> `React.js` · `Firestore NoSQL` · `RBAC Security` · `Real-Time Sync`
 
 </td>
 <td width="50%" valign="top">
 
 #### [`timetrav-ai`](https://github.com/innocous06/timetrav-ai) &nbsp; `AI`
 Intelligent conversational interface and web experience for interactive historical exploration.
-* **Stack:** `AI` · `Web` · `Conversational Systems`
+* ↳ <font color="#c9654a">**stack:**</font> `AI` · `Web` · `Conversational Systems`
 
 </td>
 </tr>
@@ -135,7 +139,13 @@ Intelligent conversational interface and web experience for interactive historic
 
 ---
 
+### <font color="#c9654a">└──</font> `// secure touchpoints` <font color="#c9654a">───►</font>
+
 <div align="center">
+
+<font color="#c9654a" face="monospace">●───[ 600266.xyz ]───●───[ github.com/innocous06 ]───●───[ innocous@duck.com ]───●</font>
+
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/600266.xyz-c9654a?style=for-the-badge&logoColor=white)](https://600266.xyz)
 &nbsp;
