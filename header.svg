@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" fill="none">
   <defs>
-    <filter id="orangeGlow" x="-20%" y="-20%" width="140%" height="140%">
+    <!-- Orange Glow Filter -->
+    <filter id="orangeGlow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="6" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
@@ -15,21 +16,20 @@
     .mono {
       font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, Monaco, monospace;
     }
-    @keyframes dotBlink {
-      0%, 45% { opacity: 1; }
-      50%, 95% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-    .blinking-dot {
-      animation: dotBlink 1.2s infinite ease-in-out;
-    }
   </style>
 
   <!-- Ambient Minimal Orange Backlight -->
   <circle cx="180" cy="55" r="45" fill="#c9654a" fill-opacity="0.12" filter="url(#orangeGlow)" />
 
-  <!-- Main Lowercase Title: innocous with Blinking Dot -->
-  <text x="32" y="66" class="title" font-size="52" fill="#ffffff">innocous<tspan fill="#c9654a" class="blinking-dot">.</tspan></text>
+  <!-- Main Lowercase Title: innocous -->
+  <g transform="translate(32, 66)">
+    <text x="0" y="0" class="title" font-size="52" fill="#ffffff">innocous</text>
+    
+    <!-- Native SMIL Blinking Dot (Bypasses GitHub CSS animation filter) -->
+    <text x="212" y="0" class="title" font-size="52" fill="#c9654a" filter="url(#orangeGlow)">.
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite" />
+    </text>
+  </g>
 
   <!-- Clean Subtitle in White / Muted White -->
   <text x="34" y="96" class="mono" font-size="12" fill="#8b8b96" letter-spacing="1">
@@ -42,7 +42,9 @@
     <circle cx="160" cy="0" r="3" fill="#c9654a" />
     <circle cx="160" cy="0" r="1.2" fill="#ffffff" />
     <path d="M 160 0 L 190 0 L 210 20 L 250 20" stroke="#c9654a" stroke-width="1.2" fill="none" stroke-opacity="0.6" />
-    <circle cx="250" cy="20" r="2.5" fill="#c9654a" fill-opacity="0.8" />
+    <circle cx="250" cy="20" r="2.5" fill="#c9654a" fill-opacity="0.8">
+      <animate attributeName="fill-opacity" values="0.8;0.2;0.8" dur="2.4s" repeatCount="indefinite" />
+    </circle>
   </g>
 
   <!-- Subtle Bottom Hairline Divider -->
