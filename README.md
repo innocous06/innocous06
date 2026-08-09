@@ -11,7 +11,6 @@
 ~ cat focus.txt
   • Database Architecture & Transactional Schemas
   • Zero-Dependency Encrypted VPN Protocols
-  • High-Throughput LAN Streaming (Wi-Fi 6)
   • Cloud Pipelines & Subprocess Automation
 ```
 
