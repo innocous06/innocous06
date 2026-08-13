@@ -1,15 +1,14 @@
 <div align="center">
 
 ```
-  ██╗███╗   ██╗███╗   ██╗ ██████╗  ██████╗ ██████╗ ██╗   ██╗███████╗
-  ██║████╗  ██║████╗  ██║██╔═══██╗██╔════╝██╔═══██╗██║   ██║██╔════╝
-  ██║██╔██╗ ██║██╔██╗ ██║██║   ██║██║     ██║   ██║██║   ██║███████╗
-  ██║██║╚██╗██║██║╚██╗██║██║   ██║██║     ██║   ██║██║   ██║╚════██║
-  ██║██║ ╚████║██║ ╚████║╚██████╔╝╚██████╗╚██████╔╝╚██████╔╝███████║
-  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
+    _                                        
+   (_)___  ____  ____  _________  __  _______
+  / / __ \/ __ \/ __ \/ ___/ __ \/ / / / ___/
+ / / / / / / / / /_/ / /__/ /_/ / /_/ (__  ) 
+/_/_/ /_/_/ /_/\____/\___/\____/\__,_/____/  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=C9654A&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=50&lines=%3E+database+systems+%7C+networking+%7C+cloud+automation;%3E+encrypted+vpn+protocols+%7C+systems+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1200&color=C9654A&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=%3E+database+systems+%7C+networking+%7C+cloud+pipelines;%3E+custom+vpn+protocols+%7C+systems+engineering" alt="Typing SVG" />
 
 </div>
 
@@ -17,23 +16,22 @@
 
 ```bash
 ~ whoami
-  innocous06
+  innocous
 
 ~ cat focus.txt
-  → Database architecture, schema design & query optimization
-  → Zero-dependency TCP/UDP VPN tunnelling protocols
-  → Cloud data pipelines & subprocess automation (OCI, Azure)
-  → High-throughput LAN streaming & peer-to-peer transfer
-  → Real-time sync engines & transactional data integrity
+  • Database Architecture & Transactional Systems
+  • Zero-Dependency Encrypted VPN Protocols
+  • High-Throughput LAN Streaming & File Transfer
+  • Cloud Pipelines & Subprocess Automation
 ```
 
 ---
 
-### `// stack`
+### `// technical stack`
 
 <table>
 <tr>
-<td><b>Languages</b></td>
+<td width="25%"><b>Languages</b></td>
 <td>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -41,30 +39,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td><b>Database & Data</b></td>
+<td><b>Networking & Security</b></td>
 <td>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![ACID](https://img.shields.io/badge/ACID_Transactions-2C2C2C?style=flat-square&logoColor=white)
-![Indexing](https://img.shields.io/badge/Query_Optimization-1a1a1a?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>Networking</b></td>
-<td>
-
-![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP_Sockets-2C2C2C?style=flat-square&logoColor=white)
-![mTLS](https://img.shields.io/badge/mTLS-C9654A?style=flat-square&logoColor=white)
+![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP_Sockets-222222?style=flat-square&logoColor=white)
+![mTLS](https://img.shields.io/badge/mTLS_Validation-C9654A?style=flat-square&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN_Protocol_Design-333333?style=flat-square&logoColor=white)
 ![DPI](https://img.shields.io/badge/DPI_Evasion-1a1a1a?style=flat-square&logoColor=white)
 ![gomobile](https://img.shields.io/badge/gomobile-00ADD8?style=flat-square&logoColor=white)
@@ -72,7 +58,19 @@
 </td>
 </tr>
 <tr>
-<td><b>Web</b></td>
+<td><b>Data & Databases</b></td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Optimization-003B57?style=flat-square&logo=databricks&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore_NoSQL-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![ACID](https://img.shields.io/badge/ACID_Transactions-222222?style=flat-square&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing_%26_Schemas-1a1a1a?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Web & Full-Stack</b></td>
 <td>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -84,13 +82,13 @@
 </td>
 </tr>
 <tr>
-<td><b>Cloud & Infra</b></td>
+<td><b>Cloud & Infrastructure</b></td>
 <td>
 
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_API-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_APIs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
 </tr>
@@ -98,72 +96,62 @@
 
 ---
 
-### `// projects`
+### `// featured engineering`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[`tunnel-prot-1`](https://github.com/innocous06/tunnel-prot-1)** &nbsp; `Go`
-
-Zero-dependency encrypted TCP/UDP VPN tunnelling protocol. mTLS cert validation, custom JSON config spec, and native Android binaries via gomobile. **20–50ms latency** on domestic OCI nodes, ~230ms transatlantic.
-
-`Go` `Custom VPN` `mTLS` `OCI VPS` `gomobile`
+#### [`tunnel-prot-1`](https://github.com/innocous06/tunnel-prot-1) `Go`
+Zero-dependency encrypted TCP/UDP VPN tunnelling protocol with mutual TLS (mTLS) certificate validation, custom JSON configuration specifications, and compiled native Android binary modules via `gomobile`.
+* **Low Latency:** 20–50ms on domestic OCI nodes, ~230ms transatlantic.
+* `Go` `Custom VPN` `mTLS` `OCI VPS` `gomobile`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[`HyperShare`](https://github.com/innocous06/HyperShare)** &nbsp; `Node.js`
-
-High-speed peer-to-peer file transfer over Wi-Fi 6 (5GHz). Bypasses cloud relays, TLS overhead, and multipart parsing. **Sustained 87 MB/s** throughput. Bundled as standalone Windows executable via pkg.
-
-`Node.js` `Express` `Wi-Fi 6` `LAN Streaming` `pkg`
+#### [`HyperShare`](https://github.com/innocous06/HyperShare) `Node.js`
+High-speed peer-to-peer file transfer engine engineered for direct Wi-Fi 6 (5GHz) streaming. Bypasses cloud relay round-trips, TLS overheads, and multipart form parsing.
+* **Throughput:** Sustained **87 MB/s** LAN transmission speed.
+* `Node.js` `Express` `Wi-Fi 6` `LAN Streaming` `pkg`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[`shadowlink`](https://github.com/innocous06/shadowlink)** &nbsp; `Rust`
-
-Memory-safe, low-overhead VPN tunnelling utility. Modular Cargo workspace with automated certificate generator (certgen) and native Android client integration (shadowlink-android).
-
-`Rust` `TLS` `Cargo Workspace` `Certgen` `VPN`
+#### [`shadowlink`](https://github.com/innocous06/shadowlink) `Rust`
+Memory-safe, low-overhead networking utility for point-to-point secure VPN tunnelling. Organized as a modular Cargo workspace containing an automated certificate generator (`certgen`) and native Android client integration.
+* `Rust` `TLS Tunnelling` `Cargo Workspace` `Certgen` `VPN`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Cloud Pipeline Engine** &nbsp; `Python`
-
-Automated cloud data extraction & ingestion suite using subprocess-driven Aria2 instances. Integrates Microsoft 365 E5 / Azure APIs and Google Drive APIs with dynamic rsync workflows and Cloudflare challenge handling.
-
-`Python` `Azure API` `Google Drive API` `Aria2` `Subprocess`
+#### Cloud Pipeline Engine `Python`
+High-throughput automated data ingestion and extraction suite using subprocess-driven Aria2 engines. Integrates Microsoft 365 E5 / Azure and Google Drive APIs with dynamic `rsync` workflows and Cloudflare challenge handling.
+* `Python` `Azure APIs` `Google Drive API` `Aria2` `Subprocess`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Property & Studio Ops Platform** &nbsp; `React`
-
-Full-stack multi-role platform with Firestore real-time document sync, complex relational data modeling, strict RBAC via security rules, multi-tenant billing ledgers, and query-optimized financial reporting.
-
-`React.js` `Firestore` `NoSQL Schema` `RBAC` `Real-Time Sync`
+#### Property Operations Platform `React`
+Full-stack multi-role web platform with Firebase Firestore for real-time document database synchronization. Features role-based access control (RBAC), multi-tenant ledgers, and query-optimized reporting.
+* `React.js` `Firestore` `NoSQL Schema` `RBAC` `Real-Time Sync`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[`timetrav-ai`](https://github.com/innocous06/timetrav-ai)** &nbsp; `AI`
-
-AI-powered time travel experience — exploring history through intelligent conversational interfaces.
-
-`AI` `Web`
+#### [`timetrav-ai`](https://github.com/innocous06/timetrav-ai) `AI`
+Intelligent conversational interface and web experience for interactive historical exploration.
+* `AI` `Web` `Conversational Systems`
 
 </td>
 </tr>
 </table>
 
-> *[all repos →](https://github.com/innocous06?tab=repositories)*
+> *[View all repositories →](https://github.com/innocous06?tab=repositories)*
 
 ---
 
