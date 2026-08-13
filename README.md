@@ -1,29 +1,60 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="innocous" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=54&duration=4000&pause=1500&color=FFFFFF&cursor=true&width=600&height=80&lines=innocous." alt="innocous." />
+
+<p align="center">
+  <code>systems architecture</code> &nbsp;·&nbsp; <code>encrypted protocols</code> &nbsp;·&nbsp; <code>database systems</code>
+</p>
+
+[![Status](https://img.shields.io/badge/sys-online-c9654a?style=flat-square&logoColor=white)](https://600266.xyz)
+[![Node](https://img.shields.io/badge/node-oci--active-18181f?style=flat-square&logoColor=white)](https://600266.xyz)
+[![Protocol](https://img.shields.io/badge/vpn-mTLS--encrypted-c9654a?style=flat-square&logoColor=white)](https://github.com/innocous06/tunnel-prot-1)
+[![Throughput](https://img.shields.io/badge/lan-87_MB%2Fs-18181f?style=flat-square&logoColor=white)](https://github.com/innocous06/HyperShare)
 
 </div>
 
-```bash
-~ whoami
-  innocous
+<br>
 
-~ cat focus.txt
-  • Database Architecture & Transactional Schemas
-  • Zero-Dependency Encrypted VPN Protocols
-  • High-Throughput LAN Streaming (Wi-Fi 6)
-  • Cloud Pipelines & Subprocess Automation
+```text
+╭── [ SYS_TOPOLOGY // PROTOCOL_PIPELINE ] ────────────────────────────────────────────╮
+│                                                                                     │
+│   [ L4: TCP/UDP Sockets ] ───► [ L5: mTLS Handshake ] ───► [ L6: DPI Obfuscation ]  │
+│                                                                   │                 │
+│                                                                   ▼                 │
+│                                                     [ L7: OCI Tunnel (20-50ms) ]    │
+│                                                                                     │
+│   [ Wi-Fi 6 5GHz LAN ] ───► [ Bypass TLS / Multipart Form ] ───► [ 87 MB/s Stream ] │
+│                                                                                     │
+╰─────────────────────────────────────────────────────────────────────────────────────╯
+   │
+   ├──► 01 // CAPABILITIES
+   │    ├── [NETWORKING]  ──► Zero-Dependency TCP/UDP VPN · mTLS Auth · gomobile
+   │    ├── [STREAMING]   ──► Wi-Fi 6 P2P LAN Streaming Engine (87 MB/s Sustained)
+   │    ├── [DATABASES]   ──► PostgreSQL · SQL Schema Design · Firestore (NoSQL) · ACID
+   │    └── [AUTOMATION]  ──► Aria2 Subprocess Pipelines · Azure APIs · Dynamic rsync
+   │
+   ├──► 02 // TECHNICAL MATRIX
+   │    ├── Languages     ──► Go · Rust · Python · C · C++ · TypeScript · JavaScript · Bash
+   │    ├── Systems & Sec ──► TCP/UDP Sockets · TLS / mTLS · DPI Evasion · Linux
+   │    ├── Data Storage  ──► PostgreSQL · Query Optimization · Indexing Schemas
+   │    ├── Web & Cloud   ──► React.js · Next.js · Node.js · Oracle Cloud (OCI) · Azure
+   │    └── Architecture  ──► Zero-Dependency Binaries · Subprocess Streams · Strict RBAC
+   │
+   └──► 03 // FEATURED WORK
+        ├── [01] tunnel-prot-1 ──► Go / mTLS VPN Protocol [20–50ms Domestic OCI]
+        ├── [02] HyperShare    ──► Wi-Fi 6 P2P LAN Transfer [87 MB/s Sustained]
+        ├── [03] shadowlink    ──► Rust Point-to-Point Secure VPN & Certgen
+        ├── [04] Cloud Pipeline──► Python / Aria2 / Azure & Google Drive API Suite
+        └── [05] Property Ops  ──► React / Firestore Real-Time Sync & RBAC Platform
 ```
-
-<div align="right"><font color="#c9654a" face="monospace">───[ node: oci-active ]───●</font></div>
 
 ---
 
-### <font color="#c9654a">├──</font> `// technical stack` <font color="#c9654a">───►</font>
+### `// technical stack`
 
 <table>
 <tr>
-<td width="22%"><b><font color="#c9654a">Languages</font></b></td>
+<td width="22%"><b>Languages</b></td>
 <td>
 
 ![Go](https://img.shields.io/badge/Go-18181f?style=flat-square&logo=go&logoColor=white)
@@ -38,7 +69,7 @@
 </td>
 </tr>
 <tr>
-<td><b><font color="#c9654a">Networking & Sec</font></b></td>
+<td><b>Networking & Sec</b></td>
 <td>
 
 ![mTLS](https://img.shields.io/badge/mTLS_Validation-c9654a?style=flat-square&logoColor=white)
@@ -50,7 +81,7 @@
 </td>
 </tr>
 <tr>
-<td><b><font color="#c9654a">Data & Storage</font></b></td>
+<td><b>Data & Storage</b></td>
 <td>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181f?style=flat-square&logo=postgresql&logoColor=white)
@@ -62,7 +93,7 @@
 </td>
 </tr>
 <tr>
-<td><b><font color="#c9654a">Web & Cloud</font></b></td>
+<td><b>Web & Cloud</b></td>
 <td>
 
 ![React](https://img.shields.io/badge/React-18181f?style=flat-square&logo=react&logoColor=white)
@@ -76,11 +107,9 @@
 </tr>
 </table>
 
-<div align="right"><font color="#c9654a" face="monospace">───[ bus: sys_stack ]───●</font></div>
-
 ---
 
-### <font color="#c9654a">├──</font> `// featured engineering` <font color="#c9654a">───►</font>
+### `// featured engineering`
 
 <table>
 <tr>
@@ -88,16 +117,16 @@
 
 #### [`tunnel-prot-1`](https://github.com/innocous06/tunnel-prot-1) &nbsp; `Go`
 Zero-dependency encrypted TCP/UDP VPN tunnelling protocol with mutual TLS (mTLS) certificate validation, custom JSON configuration specifications, and compiled native Android binary modules via `gomobile`.
-* ↳ <font color="#c9654a">**latency:**</font> **20–50ms** on domestic OCI nodes, ~230ms transatlantic.
-* ↳ <font color="#c9654a">**stack:**</font> `Go` · `Custom VPN` · `mTLS` · `OCI VPS` · `gomobile`
+* ↳ **latency:** **20–50ms** on domestic OCI nodes, ~230ms transatlantic.
+* ↳ **stack:** `Go` · `Custom VPN` · `mTLS` · `OCI VPS` · `gomobile`
 
 </td>
 <td width="50%" valign="top">
 
 #### [`HyperShare`](https://github.com/innocous06/HyperShare) &nbsp; `Node.js`
 High-speed peer-to-peer file transfer engine engineered for direct Wi-Fi 6 (5GHz) streaming. Actively bypasses cloud relay round-trips, TLS overheads, and multipart form parsing.
-* ↳ <font color="#c9654a">**throughput:**</font> Sustained **87 MB/s** direct LAN transmission speed.
-* ↳ <font color="#c9654a">**stack:**</font> `Node.js` · `Express` · `Wi-Fi 6` · `pkg Executable`
+* ↳ **throughput:** Sustained **87 MB/s** direct LAN transmission speed.
+* ↳ **stack:** `Node.js` · `Express` · `Wi-Fi 6` · `pkg Executable`
 
 </td>
 </tr>
@@ -106,14 +135,14 @@ High-speed peer-to-peer file transfer engine engineered for direct Wi-Fi 6 (5GHz
 
 #### [`shadowlink`](https://github.com/innocous06/shadowlink) &nbsp; `Rust`
 Memory-safe, low-overhead networking utility for point-to-point secure VPN tunnelling. Organized as a modular Cargo workspace containing an automated certificate generator (`certgen`) and native Android client integration.
-* ↳ <font color="#c9654a">**stack:**</font> `Rust` · `TLS Tunnelling` · `Cargo Workspace` · `Certgen` · `VPN`
+* ↳ **stack:** `Rust` · `TLS Tunnelling` · `Cargo Workspace` · `Certgen` · `VPN`
 
 </td>
 <td width="50%" valign="top">
 
 #### Cloud Pipeline Engine &nbsp; `Python`
 High-throughput automated data ingestion and extraction suite using subprocess-driven Aria2 engines. Integrates Microsoft 365 E5 / Azure and Google Drive APIs with dynamic `rsync` workflows and Cloudflare challenge handling.
-* ↳ <font color="#c9654a">**stack:**</font> `Python` · `Azure APIs` · `Google Drive API` · `Aria2` · `Subprocess`
+* ↳ **stack:** `Python` · `Azure APIs` · `Google Drive API` · `Aria2` · `Subprocess`
 
 </td>
 </tr>
@@ -122,14 +151,14 @@ High-throughput automated data ingestion and extraction suite using subprocess-d
 
 #### Property Operations Platform &nbsp; `React`
 Full-stack multi-role web platform with Firebase Firestore for real-time document database synchronization. Features role-based access control (RBAC), multi-tenant ledgers, and query-optimized reporting.
-* ↳ <font color="#c9654a">**stack:**</font> `React.js` · `Firestore NoSQL` · `RBAC Security` · `Real-Time Sync`
+* ↳ **stack:** `React.js` · `Firestore NoSQL` · `RBAC Security` · `Real-Time Sync`
 
 </td>
 <td width="50%" valign="top">
 
 #### [`timetrav-ai`](https://github.com/innocous06/timetrav-ai) &nbsp; `AI`
 Intelligent conversational interface and web experience for interactive historical exploration.
-* ↳ <font color="#c9654a">**stack:**</font> `AI` · `Web` · `Conversational Systems`
+* ↳ **stack:** `AI` · `Web` · `Conversational Systems`
 
 </td>
 </tr>
@@ -139,13 +168,15 @@ Intelligent conversational interface and web experience for interactive historic
 
 ---
 
-### <font color="#c9654a">└──</font> `// secure touchpoints` <font color="#c9654a">───►</font>
+### `// secure touchpoints`
 
 <div align="center">
 
-<font color="#c9654a" face="monospace">●───[ 600266.xyz ]───●───[ github.com/innocous06 ]───●───[ innocous@duck.com ]───●</font>
+```text
+●───[ 600266.xyz ]───●───[ github.com/innocous06 ]───●───[ innocous@duck.com ]───●
+```
 
-<br><br>
+<br>
 
 [![Portfolio](https://img.shields.io/badge/600266.xyz-c9654a?style=for-the-badge&logoColor=white)](https://600266.xyz)
 &nbsp;
