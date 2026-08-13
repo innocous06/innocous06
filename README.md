@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="innocous — systems engineer" />
+<img src="header.svg" width="100%" alt="innocous" />
 
 </div>
 
