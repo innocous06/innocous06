@@ -1,18 +1,8 @@
 <div align="center">
 
-```
-    _                                        
-   (_)___  ____  ____  _________  __  _______
-  / / __ \/ __ \/ __ \/ ___/ __ \/ / / / ___/
- / / / / / / / / /_/ / /__/ /_/ / /_/ (__  ) 
-/_/_/ /_/_/ /_/\____/\___/\____/\__,_/____/  
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1200&color=C9654A&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=%3E+database+systems+%7C+networking+%7C+cloud+pipelines;%3E+custom+vpn+protocols+%7C+systems+engineering" alt="Typing SVG" />
+<img src="header.svg" width="100%" alt="innocous — systems engineer" />
 
 </div>
-
----
 
 ```bash
 ~ whoami
