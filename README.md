@@ -136,9 +136,8 @@ Intelligent conversational interface and web experience for interactive historic
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/600266.xyz-c9654a?style=for-the-badge&logoColor=white)](https://600266.xyz)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-c9654a?style=for-the-badge&logoColor=white)](https://url.600266.xyz/portfolio)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/innocous06)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-18181f?style=for-the-badge&logo=maildotru&logoColor=c9654a)](mailto:innocous@duck.com)
 
