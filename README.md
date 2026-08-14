@@ -16,7 +16,7 @@
 
 ---
 
-### `// technical stack`
+### `technical stack`
 
 <table>
 <tr>
@@ -75,7 +75,7 @@
 
 ---
 
-### `// featured engineering`
+### `featured engineering`
 
 <table>
 <tr>
