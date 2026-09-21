@@ -81,7 +81,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### [`tunnel-prot-1`](https://github.com/innocous06/tunnel-prot-1) &nbsp; `Go`
+#### [`tunnel`](https://github.com/innocous06/tunnel) &nbsp; `Go`
 Zero-dependency encrypted TCP/UDP VPN tunnelling protocol with mutual TLS (mTLS) certificate validation, custom JSON configuration specifications, and compiled native Android binary modules via `gomobile`.
 * **Latency:** **20–50ms** on domestic OCI nodes, ~230ms transatlantic.
 * **Stack:** `Go` · `Custom VPN` · `mTLS` · `OCI VPS` · `gomobile`
