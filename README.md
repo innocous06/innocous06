@@ -82,9 +82,9 @@
 <td width="50%" valign="top">
 
 #### [`tunnel`](https://github.com/innocous06/tunnel) &nbsp; `Go`
-Zero-dependency encrypted TCP/UDP VPN tunnelling protocol with mutual TLS (mTLS) certificate validation, custom JSON configuration specifications, and compiled native Android binary modules via `gomobile`.
+Point-to-point encrypted VPN tunnel with mutual TLS (mTLS) authentication, native Windows Wintun and Linux TUN/TAP adapters, automated certificate provisioning (`gencerts`), and Android `VpnService` integration via `gomobile`.
 * **Latency:** **20–50ms** on domestic OCI nodes, ~230ms transatlantic.
-* **Stack:** `Go` · `Custom VPN` · `mTLS` · `OCI VPS` · `gomobile`
+* **Stack:** `Go` · `mTLS` · `Wintun` · `Linux TUN` · `OCI VPS` · `gomobile`
 
 </td>
 <td width="50%" valign="top">
@@ -100,8 +100,8 @@ High-speed peer-to-peer file transfer engine engineered for direct Wi-Fi 6 (5GHz
 <td width="50%" valign="top">
 
 #### [`shadowlink`](https://github.com/innocous06/shadowlink) &nbsp; `Rust`
-Memory-safe, low-overhead networking utility for point-to-point secure VPN tunnelling. Organized as a modular Cargo workspace containing an automated certificate generator (`certgen`) and native Android client integration.
-* **Stack:** `Rust` · `TLS Tunnelling` · `Cargo Workspace` · `Certgen` · `VPN`
+DPI-resistant encrypted proxy and VPN suite in Rust. Features TLS 1.3 camouflage, dynamic 64-byte padding, SOCKS5 (TCP + RFC 1928 UDP Associate), Windows Wintun full VPN with LAN bypass, in-band key ratcheting, and native desktop GUI.
+* **Stack:** `Rust` · `ChaCha20-Poly1305` · `TLS Camouflage` · `Wintun` · `SOCKS5 UDP` · `egui`
 
 </td>
 <td width="50%" valign="top">
