@@ -99,7 +99,7 @@ Fault-tolerant distributed key-value store implementing Raft consensus from firs
 
 #### [`Stockflow AI`](https://github.com/innocous06/stockFlowAi-mob) &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring_Boot-c9654a?style=flat-square&logo=springboot&logoColor=white)
 Team hackathon AI supply-chain platform - owned the backend database and hazard-detection logic, then wired the mobile frontend into that backend so the driver-facing UI reflects real system state.
-* **Role:** Owned backend hazard-scoring logic and full mobile-to-backend integration within a 4-person team.
+* **Role:** Owned backend hazard-scoring logic and full mobile-to-backend integration within a 6-person team.
 * **Stack:** `Spring Boot` · `FastAPI` · `Gemini API` · `MCP` · `React` · `TypeScript`
 
 </td>
