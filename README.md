@@ -97,7 +97,7 @@ Fault-tolerant distributed key-value store implementing Raft consensus from firs
 </td>
 <td width="50%" valign="top">
 
-#### [`entity-resolution`](https://github.com/innocous06/entity-linker) &nbsp; ![Python](https://img.shields.io/badge/Python-c9654a?style=flat-square&logo=python&logoColor=white)
+#### [`entity-linker`](https://github.com/innocous06/entity-linker) &nbsp; ![Python](https://img.shields.io/badge/Python-c9654a?style=flat-square&logo=python&logoColor=white)
 GPU-accelerated record-linkage pipeline matching 1M+ noisy e-commerce listings for a team hackathon challenge - built solo end-to-end after confirming the team's hardware couldn't clear the evaluation threshold.
 * **Scale:** Two-tier blocking (brand partition + MinHash LSH) cuts 500B naive comparison pairs to under 8M - a 99.998% reduction - while holding >98.5% recall.
 * **Stack:** `Python` · `cuML` · `CuPy` · `MinHash LSH` · `RapidFuzz` · `TF-IDF`
