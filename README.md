@@ -97,10 +97,10 @@ Fault-tolerant distributed key-value store implementing Raft consensus from firs
 </td>
 <td width="50%" valign="top">
 
-#### [`entity-linker`](https://github.com/innocous06/entity-linker) &nbsp; ![Python](https://img.shields.io/badge/Python-c9654a?style=flat-square&logo=python&logoColor=white)
-GPU-accelerated record-linkage pipeline matching 1M+ noisy e-commerce listings for a team hackathon challenge - built solo end-to-end after confirming the team's hardware couldn't clear the evaluation threshold.
-* **Scale:** Two-tier blocking (brand partition + MinHash LSH) cuts 500B naive comparison pairs to under 8M - a 99.998% reduction - while holding >98.5% recall.
-* **Stack:** `Python` · `cuML` · `CuPy` · `MinHash LSH` · `RapidFuzz` · `TF-IDF`
+#### [`Stockflow AI`](https://github.com/innocous06/stockFlowAi-mob) &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring_Boot-c9654a?style=flat-square&logo=springboot&logoColor=white)
+Team hackathon AI supply-chain platform - owned the backend database and hazard-detection logic, then wired the mobile frontend into that backend so the driver-facing UI reflects real system state.
+* **Role:** Owned backend hazard-scoring logic and full mobile-to-backend integration within a 4-person team.
+* **Stack:** `Spring Boot` · `FastAPI` · `Gemini API` · `MCP` · `React` · `TypeScript`
 
 </td>
 </tr>
@@ -115,10 +115,10 @@ DPI-resistant VPN tunnel with TLS SNI camouflage and mutual TLS - built independ
 </td>
 <td width="50%" valign="top">
 
-#### [`NoiseStash`](https://github.com/innocous06/NoiseStash) &nbsp; ![Kotlin](https://img.shields.io/badge/Kotlin-c9654a?style=flat-square&logo=kotlin&logoColor=white)
-On-device Android sound-dose tracker - classifies ambient noise and calculates cumulative OSHA/NIOSH exposure in real time, with zero audio ever leaving the device.
-* **Efficiency:** Dual-rate architecture gates ML inference behind an amplitude threshold, keeping CPU under 3%.
-* **Stack:** `Kotlin` · `Jetpack Compose` · `TensorFlow Lite (YAMNet)` · `Room/SQLite`
+#### Cloud Pipeline Engine &nbsp; ![Python](https://img.shields.io/badge/Python-c9654a?style=flat-square&logo=python&logoColor=white)
+High-throughput automated data ingestion suite using subprocess-driven Aria2 engines, integrating Microsoft 365/Azure and Google Drive APIs with dynamic rsync workflows and Cloudflare rate-limit handling.
+* **Throughput:** Tuned rclone pipeline sustained ~90MB/s uplink without triggering Google Drive API rate limits.
+* **Stack:** `Python` · `Azure APIs` · `Google Drive API` · `Aria2` · `Subprocess` · `Rclone`
 
 </td>
 </tr>
