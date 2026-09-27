@@ -81,50 +81,54 @@
 <tr>
 <td width="50%" valign="top">
 
-#### [`tunnel`](https://github.com/innocous06/tunnel) &nbsp; `Go`
-Point-to-point encrypted VPN tunnel with mutual TLS (mTLS) authentication, native Windows Wintun and Linux TUN/TAP adapters, automated certificate provisioning (`gencerts`), and Android `VpnService` integration via `gomobile`.
-* **Latency:** **20–50ms** on domestic OCI nodes, ~230ms transatlantic.
-* **Stack:** `Go` · `mTLS` · `Wintun` · `Linux TUN` · `OCI VPS` · `gomobile`
+#### [`raft-kv`](https://github.com/innocous06/raft-kv) &nbsp; `Go`
+Fault-tolerant distributed key-value store implementing Raft consensus from first principles - leader election, log replication, snapshot installation, and a checksummed write-ahead log with crash recovery, all built with zero consensus libraries.
+* **Verification:** Chaos-injection harness simulating partitions, node crashes, and packet loss; linearizability checker confirms zero stale reads.
+* **Stack:** `Go` · `Raft Consensus` · `WAL` · `CRC32` · `Chaos Testing`
+
+</td>
+<td width="50%" valign="top">
+
+#### [`entity-resolution`](https://github.com/innocous06/entity-linker) &nbsp; `Python`
+GPU-accelerated record-linkage pipeline matching 1M+ noisy e-commerce listings for a team hackathon challenge - built solo end-to-end after confirming the team's hardware couldn't clear the evaluation threshold.
+* **Scale:** Two-tier blocking (brand partition + MinHash LSH) cuts 500B naive comparison pairs to under 8M - a 99.998% reduction - while holding >98.5% recall.
+* **Stack:** `Python` · `cuML` · `CuPy` · `MinHash LSH` · `RapidFuzz` · `TF-IDF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [`shadowlink`](https://github.com/innocous06/shadowlink) &nbsp; `Rust` (+ [`tunnel`](https://github.com/innocous06/tunnel), `Go`)
+DPI-resistant VPN tunnel with TLS SNI camouflage and mutual TLS - built independently in both Rust and Go to compare a memory-safety-first design against a raw-speed QUIC design.
+* **Latency:** **20-50ms** domestic, ~230ms transatlantic (Go build, OCI nodes).
+* **Stack:** `Rust` · `Go` · `QUIC` · `mTLS` · `ChaCha20-Poly1305` · `Curve25519` · `gomobile`
+
+</td>
+<td width="50%" valign="top">
+
+#### [`NoiseStash`](https://github.com/innocous06/NoiseStash) &nbsp; `Kotlin`
+On-device Android sound-dose tracker - classifies ambient noise and calculates cumulative OSHA/NIOSH exposure in real time, with zero audio ever leaving the device.
+* **Efficiency:** Dual-rate architecture gates ML inference behind an amplitude threshold, keeping CPU under 3%.
+* **Stack:** `Kotlin` · `Jetpack Compose` · `TensorFlow Lite (YAMNet)` · `Room/SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [`netpulse`](https://github.com/innocous06/netPulse) &nbsp; `Node.js`
+Self-hosted network diagnostics suite measuring real bandwidth, jitter, and packet loss - built to defeat the compression and caching tricks that inflate results on commercial speed tests.
+* **Precision:** 50Hz WebSocket telemetry for sub-millisecond RTT sampling; confirmed 1.0x compression ratio on payloads.
+* **Stack:** `Node.js` · `Express` · `WebSockets` · `Nginx` · `Cloudflare Pages`
 
 </td>
 <td width="50%" valign="top">
 
 #### [`HyperShare`](https://github.com/innocous06/HyperShare) &nbsp; `Node.js`
-High-speed peer-to-peer file transfer engine engineered for direct Wi-Fi 6 (5GHz) streaming. Actively bypasses cloud relay round-trips, TLS overheads, and multipart form parsing.
+High-speed peer-to-peer file transfer engine for direct Wi-Fi 6 streaming - skips TLS handshakes and multipart parsing entirely to get out of the way of raw throughput.
 * **Throughput:** Sustained **87 MB/s** direct LAN transmission speed.
 * **Stack:** `Node.js` · `Express` · `Wi-Fi 6` · `pkg Executable`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [`shadowlink`](https://github.com/innocous06/shadowlink) &nbsp; `Rust`
-DPI-resistant encrypted proxy and VPN suite in Rust. Features TLS 1.3 camouflage, dynamic 64-byte padding, SOCKS5 (TCP + RFC 1928 UDP Associate), Windows Wintun full VPN with LAN bypass, in-band key ratcheting, and native desktop GUI.
-* **Stack:** `Rust` · `ChaCha20-Poly1305` · `TLS Camouflage` · `Wintun` · `SOCKS5 UDP` · `egui`
-
-</td>
-<td width="50%" valign="top">
-
-#### Cloud Pipeline Engine &nbsp; `Python`
-High-throughput automated data ingestion and extraction suite using subprocess-driven Aria2 engines. Integrates Microsoft 365 E5 / Azure and Google Drive APIs with dynamic `rsync` workflows and Cloudflare challenge handling.
-* **Stack:** `Python` · `Azure APIs` · `Google Drive API` · `Aria2` · `Subprocess`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### Property Operations Platform &nbsp; `React`
-Full-stack multi-role web platform with Firebase Firestore for real-time document database synchronization. Features role-based access control (RBAC), multi-tenant ledgers, and query-optimized reporting.
-* **Stack:** `React.js` · `Firestore NoSQL` · `RBAC Security` · `Real-Time Sync`
-
-</td>
-<td width="50%" valign="top">
-
-#### [`timetrav-ai`](https://github.com/innocous06/timetrav-ai) &nbsp; `AI`
-Intelligent conversational interface and web experience for interactive historical exploration.
-* **Stack:** `AI` · `Web` · `Conversational Systems`
 
 </td>
 </tr>
